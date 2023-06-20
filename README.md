@@ -14,6 +14,8 @@
 - 📫 How to reach me **valenvwi@gmail.com**
 
 - ⚡ Fun fact **My best naps were during Geography class**
+  
+- 📄 Know about my experiences [Wai_Ian Vong (Amy)_Resume.pdf](https://github.com/valenvwi/valenvwi/files/11800708/Wai_Ian.Vong.Amy._Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
