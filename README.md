@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valenvwi&label=Profile%20views&color=0e75b6&style=flat" alt="valenvwi" /> </p>
 
-- 🔭 Check out my first project [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
+- :apple: Check out my first project [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
 
-- 🌱 I’m currently improving **my Ruby on Rails skill**
+- 🌱 I’m currently improving **my JavaScript skill**
+
+- 🔭 I’m currently working on [Drawing game](https://github.com/valenvwi/Drawing-game) 
 
 - 💬 Ask me about **Ruby**
 
