@@ -5,9 +5,9 @@
 
 - :apple: Check out my first project [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
 
-- 🌱 I’m currently improving **my JavaScript skill**
+- 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working on [Drawing game](https://github.com/valenvwi/Drawing-game) 
+- 🔭 I’m currently working on [InstaExplore](https://github.com/valenvwi/InstaExplore)
 
 - 💬 Ask me about **Ruby**
 
