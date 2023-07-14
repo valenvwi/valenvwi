@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valenvwi&label=Profile%20views&color=0e75b6&style=flat" alt="valenvwi" /> </p>
 
-- :apple: Check out my first project [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
+- :apple: Check out my projects [InstaExplore](https://github.com/valenvwi/InstaExplore) & [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
 
 - 🌱 I’m currently learning **React**
 
-- 🔭 I’m currently working on [InstaExplore](https://github.com/valenvwi/InstaExplore)
-
 - 💬 Ask me about **Ruby**
 
-- 📫 How to reach me **valenvwi@gmail.com**
+- 📫 Reach me at **valenvwi@gmail.com**
 
 - ⚡ Fun fact **My best naps were during Geography class**
   
