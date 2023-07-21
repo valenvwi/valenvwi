@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wai Ian! You can call me Amy.</h1>
 <h3 align="center">A passionate software developer from Macau with hospitality management background</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valenvwi&label=Profile%20views&color=0e75b6&style=flat" alt="valenvwi" /> </p>
-
 - :apple: Check out my projects [InstaExplore](https://github.com/valenvwi/InstaExplore) & [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
 
 - 🌱 I’m currently learning **React**
