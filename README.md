@@ -5,14 +5,13 @@
 
 - 🌱 I’m currently improving my **Java** skill
 
-- 💬 Ask me about **Ruby**
+- 💬 Ask me about **Ruby** and **Ruby on Rails**
 
 - 📫 Reach me at **valenvwi@gmail.com**
 
 - ⚡ Fun fact **My best naps were during Geography class**
   
-- 📄 Know about my experiences [Wai Ian Vong's resume.pdf](https://github.com/valenvwi/valenvwi/files/11815319/Wai.Ian.Vong.s.resume.pdf)
-
+- 📄 Know about my experiences [Wai Ian (Amy) Vong's resume.pdf](https://github.com/valenvwi/valenvwi/files/12302178/Wai.Ian.Amy.Vong.s.resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
