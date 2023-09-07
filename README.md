@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Wai Ian! You can call me Amy.</h1>
 <h3 align="center">A passionate software developer from Macau with hospitality management background</h3>
 
-- :apple: Check out my projects [InstaExplore](https://github.com/valenvwi/InstaExplore) & [QuickDrop-Amy](https://github.com/valenvwi/QuickDrop-Amy)
+- :apple: Check out my projects [InstaExplore](https://github.com/valenvwi/InstaExplore) & [Starry Accessory Ecommerce Store](https://github.com/valenvwi/Starry-Accessory-React)
 
-- 🌱 I’m currently improving my **Java** skill
+- 🌱 I’m currently improving my **React** and **Java** skill
 
 - 💬 Ask me about **Ruby** and **Ruby on Rails**
 
 - 📫 Reach me at **valenvwi@gmail.com**
-
-- ⚡ Fun fact **My best naps were during Geography class**
   
-- 📄 Know about my experiences [Wai Ian (Amy) Vong's resume.pdf](https://github.com/valenvwi/valenvwi/files/12302178/Wai.Ian.Amy.Vong.s.resume.pdf)
+- 📄 Know about my experiences [resume](https://github.com/valenvwi/valenvwi/files/12553176/Wai.Ian.Amy.Vong.s.resume.pdf)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
