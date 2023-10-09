@@ -8,8 +8,6 @@
 - 💬 Ask me about **Ruby** and **Ruby on Rails**
 
 - 📫 Reach me at **valenvwi@gmail.com**
-  
-- 📄 Know about my experiences [resume](https://github.com/valenvwi/valenvwi/files/12553176/Wai.Ian.Amy.Vong.s.resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
