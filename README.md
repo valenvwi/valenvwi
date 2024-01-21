@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wai Ian! You can call me Amy.</h1>
-<h3 align="center">A passionate software developer from Macau with hospitality management background</h3>
+<h3 align="center">A passionate full stack developer from Macau with hospitality management background</h3>
 
-- :apple: Check out my projects [MultiverseChat](https://github.com/valenvwi/MultiverseChat) & [InstaExplore](https://github.com/valenvwi/InstaExplore) 
+- :apple: Check out my projects  [HomeFlavors](https://github.com/valenvwi/HomeFlavors) & [MultiverseChat](https://github.com/valenvwi/MultiverseChat)
 
-- 🌱 I’m currently building a project called [HomeFlavors](https://github.com/valenvwi/HomeFlavors) with **React** and **Django** 
-
-- 💬 Ask me about **React** and **Ruby on Rails**
+- 💬 Ask me about **React** / **Django** / **Ruby on Rails**
 
 
 <h3 align="left">Connect with me:</h3>
